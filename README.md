@@ -6,7 +6,7 @@ This project simulates a basic **Library Management System** built in C++. It al
 # Table Of Content
 - [Feartures](#features)
 - [Data Structures](#data-structures)
-- [Default Credentials](default-credentials)
+- [Default Credentials](#default-credentials)
 - [Notes](#notes)
 - [Contributors](#contributors)
 
