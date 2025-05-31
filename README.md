@@ -3,7 +3,14 @@
 This project simulates a basic **Library Management System** built in C++. It allows **students** to sign up, log in, view and borrow books, while **admins** can manage book data and system information.
 
 ---
+# Table Of Content
+- [Feartures](#features)
+- [Data Structures](#data-structures)
+- [Default Credentials](default-credentials)
+- [Notes](#notes)
+- [Contributors](#contributors)
 
+---
 ## Features
 
 ### Student Functions
@@ -67,7 +74,7 @@ int Code, Edition;
 
 ---
 
-## 👨‍💻 Authors
+## Contributors
 - [Tasneem Mohamed Ahmed Mohamed](https://github.com/Tasneem357Mohamed)
 - [Bsmala Ayman Zaky Abdelmaksood](https://github.com/basmala-ayman)
 - [Bsmala Tarek Kamal Khalil Elbagoury](https://github.com/Bsmalatarek) 
